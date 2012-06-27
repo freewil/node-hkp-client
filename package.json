@@ -2,7 +2,7 @@
   "author": "Sean Lavine <sean@eternalrise.com>",
   "name": "pks-client",
   "description": "Search and fetch keys from public key servers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "gpg",
     "pks",
