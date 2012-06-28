@@ -1,12 +1,13 @@
 {
   "author": "Sean Lavine <sean@eternalrise.com>",
-  "name": "pks-client",
+  "name": "hkp-client",
   "description": "Search and fetch keys from public key servers",
   "version": "0.0.1",
   "keywords": [
     "gpg",
     "pks",
     "sks",
+    "hkp"
     "key server",
     "public key",
     "openpgp"
@@ -28,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/freewil/node-pks-client.git"
+    "url": "git://github.com/freewil/node-hkp-client.git"
   },
   "main": "lib/index"
 }

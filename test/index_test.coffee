@@ -118,7 +118,7 @@ Zjc=
 -----END PGP PUBLIC KEY BLOCK-----
 '''
 
-describe 'pks', ->
+describe 'hkp-client', ->
 
   describe 'search()', ->
     it 'should be able to retrieve array of keys', (done) ->
