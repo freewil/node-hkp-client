@@ -1,4 +1,4 @@
-# hpk-client
+# hkp-client
 
 Use this for searching and fetching keys from public-key servers implementing
 the OpenPGP HTTP Keyserver Protocol (HKP).
