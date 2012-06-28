@@ -7,7 +7,7 @@
     "gpg",
     "pks",
     "sks",
-    "hkp"
+    "hkp",
     "key server",
     "public key",
     "openpgp"
